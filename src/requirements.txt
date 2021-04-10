@@ -28,7 +28,7 @@ django-recurrence==1.10.2
 django-storages==1.9.1
 django-webpack-loader==0.7.0
 django-widget-tweaks==1.4.8
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 docutils==0.15.2
 entrypoints==0.3
 environ==1.0
